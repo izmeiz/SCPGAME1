@@ -1,0 +1,3 @@
+repository "AOKWOAKWAO/SCPGAME1@18968128070310@cloud"
+  path "/"
+    smartbranch "/main"
