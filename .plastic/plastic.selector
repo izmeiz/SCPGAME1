@@ -1,0 +1,4 @@
+repository "SCPGAME1@localhost:8087"
+  path "/"
+    br "/main"
+    co "/main"
